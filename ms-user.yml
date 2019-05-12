@@ -1,4 +1,6 @@
 spring:
+  config:
+    name: users
   data:
     mongodb:
       host: localhost

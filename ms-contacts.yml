@@ -1,4 +1,6 @@
 spring:
+  config:
+    name: contacts
   data:
     mongodb:
       host: localhost
