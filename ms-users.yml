@@ -1,0 +1,11 @@
+spring:
+  config:
+    name: users
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: ms-user
+
+server: 
+  port: 9090
